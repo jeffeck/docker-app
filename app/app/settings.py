@@ -124,3 +124,11 @@ STATIC_URL = '/static/'
 
 # change template for crispy forms
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
+
+# new setting 
+LOGIN_REDIRECT_URL = 'blog-home'
+LOGIN_URL = 'login'
+
+FIXTURE_DIRS = (
+    './blog/fixtures/blog'
+)

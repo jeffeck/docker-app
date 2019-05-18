@@ -24,7 +24,7 @@ from .models import Post
 # Create your views here.
 def home(request):
     context = {
-        # 'posts': posts
+    #     'posts': posts
         'posts': Post.objects.all() 
     }
     # return HttpResponse('<h1>Blog Home</h1>')

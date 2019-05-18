@@ -1,0 +1,12 @@
+
+Apps:
+	- "Stack" of links 
+		- Docker
+			- Install
+			- Run
+		- Django
+			- Develop
+
+	- Useful links
+		- SO
+		- Django 
