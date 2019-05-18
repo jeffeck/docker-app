@@ -1,0 +1,12 @@
+[
+    {
+        "model": "app.Users",
+        "pk": 2,
+        "fields": {
+            "username": "testUser",
+            "email_address": "test@test.com",
+            "first_name": "test",
+            "last_name": "user"
+        }
+    }
+]
